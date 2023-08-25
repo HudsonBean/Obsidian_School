@@ -12,6 +12,7 @@ kanban-plugin: basic
 ## Oral Comm
 
 **Complete**
+- [x] Read chapter 4
 
 
 ## APUSH

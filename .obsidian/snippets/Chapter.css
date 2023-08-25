@@ -1,0 +1,18 @@
+#c {
+  color: rgb(253, 122, 22);
+  font-weight: 100;
+  font-size: 2.5rem;
+  padding-bottom: 0.5rem;
+  position: relative;
+  transition: all 0.15s ease-in-out;
+}
+#c::after {
+  content: "";
+  position: absolute;
+  width: 105%;
+  height: 0.1rem;
+  background-color: rgb(253, 122, 22);
+  bottom: 0;
+  left: -2.5%;
+  transition: all 0.15s ease-in-out;
+}/*# sourceMappingURL=Chapter.css.map */

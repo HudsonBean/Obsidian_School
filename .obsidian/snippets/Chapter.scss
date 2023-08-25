@@ -1,0 +1,20 @@
+$underline-width: 2.5%;
+$theme-color: rgb(253, 122, 22);
+#c {
+  color: $theme-color;
+  font-weight: 100;
+  font-size: 2.5rem;
+  padding-bottom: 0.5rem;
+  position: relative;
+  transition: all 0.15s ease-in-out;
+  &::after {
+    content: "";
+    position: absolute;
+    width: 100% + ($underline-width * 2);
+    height: 0.1rem;
+    background-color: $theme-color;
+    bottom: 0;
+    left: -$underline-width;
+    transition: all 0.15s ease-in-out;
+  }
+}

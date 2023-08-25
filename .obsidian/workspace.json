@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8570cada4a49ff",
+        "id": "23ff860f7e55a9b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4af9202dbefdfca7",
+            "id": "c3cf321d31aaabda",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "HighSchool/Junior/TodoList.md"
+                "file": "HighSchool/CssSnippetTest.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HighSchool/Junior/TodoList.md",
+                "file": "HighSchool/CssSnippetTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HighSchool/Junior/TodoList.md",
+                "file": "HighSchool/CssSnippetTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HighSchool/Junior/TodoList.md"
+                "file": "HighSchool/CssSnippetTest.md"
               }
             }
           },
@@ -154,11 +156,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4af9202dbefdfca7",
+  "active": "c3cf321d31aaabda",
   "lastOpenFiles": [
+    "HighSchool/Junior/Español 3/Test3.md",
+    "HighSchool/CssSnippetTest.md",
+    "Test2.md",
+    "HighSchool/Junior/TodoList.md",
+    "test.md",
     "HighSchool/test.md",
     "Obsidian_School",
-    "HighSchool/Junior/TodoList.md",
     "d.md",
     "HighSchool/Junior/Español 3",
     "HighSchool/Junior/Untitled.md",

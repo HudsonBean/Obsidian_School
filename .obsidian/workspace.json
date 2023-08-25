@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0de797c2b387337d",
+        "id": "eb8570cada4a49ff",
         "type": "tabs",
         "children": [
           {
-            "id": "b512924b53ce3fa3",
+            "id": "4af9202dbefdfca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +80,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "161250b2152c8c52",
+            "id": "82ea8d56fd207dd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3382667d5bf48ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +108,7 @@
             }
           },
           {
-            "id": "1f20ffdf090b272a",
+            "id": "7ab56a43d85ade6c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,18 +120,7 @@
             }
           },
           {
-            "id": "82ea8d56fd207dd4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "bdff8fdbe9d489b3",
+            "id": "01171ba641686caf",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,13 +128,21 @@
                 "file": "HighSchool/test.md"
               }
             }
+          },
+          {
+            "id": "8d1aee043fc507fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,11 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b512924b53ce3fa3",
+  "active": "8d1aee043fc507fc",
   "lastOpenFiles": [
+    "HighSchool/test.md",
     "Obsidian_School",
     "HighSchool/Junior/TodoList.md",
-    "HighSchool/test.md",
     "d.md",
     "HighSchool/Junior/Español 3",
     "HighSchool/Junior/Untitled.md",

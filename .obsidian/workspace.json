@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23ff860f7e55a9b5",
+        "id": "7d662d74625deb20",
         "type": "tabs",
         "children": [
           {
-            "id": "c3cf321d31aaabda",
+            "id": "c36753b40458e2e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HighSchool/CssSnippetTest.md",
-                "mode": "source",
+                "file": "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HighSchool/CssSnippetTest.md",
+                "file": "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HighSchool/CssSnippetTest.md",
+                "file": "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HighSchool/CssSnippetTest.md"
+                "file": "HighSchool/Junior/APUSH/Themes/Encomienda System.md"
               }
             }
           },
@@ -156,22 +156,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3cf321d31aaabda",
+  "active": "c36753b40458e2e4",
   "lastOpenFiles": [
-    "HighSchool/Junior/Español 3/Test3.md",
-    "HighSchool/CssSnippetTest.md",
-    "Test2.md",
+    "Templates/ThemeTemplate.md",
+    "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
+    "Assets/TheEncomiendaSystem.png",
+    "HighSchool/Junior/APUSH/Themes/Columbian Exchange.md",
+    "Assets/TheColumbianExchange.png",
+    "HighSchool/Junior/APUSH/Exam Notes.md",
+    "HighSchool/Junior/APUSH/Periods/Period 1/Period 1 (1491-1607) Contact and Exploration.md",
+    "HighSchool/Junior/APUSH/Master Note.md",
+    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Juan Ponce de León.md",
+    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Hernán Cortés.md",
+    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Christopher Columbus.md",
+    "Templates/PeopleTemplate.md",
+    "Templates/NoteTemplate.md",
+    "HighSchool/Junior/APUSH/Periods/Period 2/Period 2 (1607-1754).md",
+    "HighSchool/Junior/APUSH/Periods/Period 2/test.md",
+    "HighSchool/Junior/APUSH/Periods/Period 6 (1865-1898)/Untitled",
+    "HighSchool/Junior/APUSH/Periods/Period 1 (1491-1607)/Untitled",
+    "HighSchool/Junior/APUSH/Periods/Period 8/Period 8 (1945-1980).md",
+    "HighSchool/Junior/APUSH/Periods/Period 9/Period 9 (1980-Present).md",
+    "HighSchool/Junior/APUSH/Periods/Period 7/Period 7 (1890-1945).md",
+    "HighSchool/Junior/APUSH/Periods/Period 6/Period 6 (1865-1898).md",
+    "HighSchool/Junior/APUSH/Periods/Period 5/Period 5 (1844-1877).md",
+    "HighSchool/Junior/APUSH/Periods/Period 4/Period 4 (1800-1848).md",
+    "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
+    "HighSchool/Junior/APUSH/Periods/Period 4 (1800-1848)/Period 4 (1800-1848).canvas",
+    "HighSchool/Junior/APUSH/Periods/Period 3 (1754-1800)/Period 3 (1754-1800).canvas",
+    "HighSchool/Junior/APUSH/Periods/Period 5 (1844-1877)/Period 5 (1844-1877).canvas",
+    "HighSchool/Junior/APUSH/Periods/Period 2 (1607-1754)/Period 2 (1607-1754).canvas",
+    "Period 2 (1607-1754).md",
+    "Period 1 (1491-1607).canvas",
+    "HighSchool/Junior/APUSH/Periods/Period 1 (1491-1607)/Period 1 (1491-1607).canvas",
+    "CssSnippetTest.md",
+    "Assets",
     "HighSchool/Junior/TodoList.md",
-    "test.md",
-    "HighSchool/test.md",
-    "Obsidian_School",
-    "d.md",
-    "HighSchool/Junior/Español 3",
-    "HighSchool/Junior/Untitled.md",
-    "HighSchool/Junior/Fundamentals of Oral Communication",
-    "HighSchool/Junior/Algebra3",
-    "HighSchool/Junior/APUSH",
-    "HighSchool/Junior",
-    "HighSchool"
+    "HighSchool/Junior/APUSH/Themes/Columbus Exchange.md",
+    "HighSchool/Junior/APUSH/Themes",
+    "HighSchool/Junior/APUSH/Periods/Period 8 (1945-1980)/Period 8 (1945-1980).canvas",
+    "HighSchool/Junior/APUSH/Periods/Period 9 (1980-Present)/Period 9 (1980-Present).canvas",
+    "HighSchool/Junior/APUSH/Periods/Period 7 (1890-1945)/Period 7 (1890-1945).canvas",
+    "HighSchool/Junior/APUSH/Periods/Period 6 (1865-1898)/Period 6 (1865-1898).canvas",
+    "HighSchool/Junior/APUSH/Periods/Period 9/Important People",
+    "HighSchool/Junior/APUSH/Periods/Period 8/Important People",
+    "HighSchool/Junior/APUSH/Periods/Period 7/Important People",
+    "HighSchool/Junior/APUSH/Periods/Period 6/Important People",
+    "HighSchool/Junior/APUSH/Periods/Period 5/Important People",
+    "HighSchool/Junior/APUSH/Periods/Period 4/Important People"
   ]
 }

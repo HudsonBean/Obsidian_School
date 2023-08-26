@@ -1,0 +1,74 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "/",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "Templates/NoteTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods",
+      "template": "Templates/NoteTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 1/Important People",
+      "template": "Templates/PeopleTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 2/Important People",
+      "template": "Templates/PeopleTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 3/Important People",
+      "template": "Templates/PeopleTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 4/Important People",
+      "template": "Templates/PeopleTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 5/Important People",
+      "template": "Templates/PeopleTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 6/Important People",
+      "template": "Templates/PeopleTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 7/Important People",
+      "template": "Templates/PeopleTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 8/Important People",
+      "template": "Templates/PeopleTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Periods/Period 9/Important People",
+      "template": "Templates/ThemeTemplate.md"
+    },
+    {
+      "folder": "HighSchool/Junior/APUSH/Themes",
+      "template": "Templates/ThemeTemplate.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

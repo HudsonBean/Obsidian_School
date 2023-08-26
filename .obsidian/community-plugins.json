@@ -2,5 +2,6 @@
   "table-editor-obsidian",
   "obsidian-kanban",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview"
 ]

@@ -17,4 +17,9 @@ $theme-color: rgb(253, 122, 22);
     left: -$underline-width;
     transition: all 0.15s ease-in-out;
   }
+
+  a {
+    color: $theme-color;
+    text-decoration: none;
+  }
 }

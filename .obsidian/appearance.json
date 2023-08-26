@@ -3,6 +3,8 @@
   "enabledCssSnippets": [
     "Chapter",
     "SubChapter",
-    "Section"
+    "Section",
+    "Important",
+    "NoDecoration"
   ]
 }

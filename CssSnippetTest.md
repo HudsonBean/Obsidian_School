@@ -2,6 +2,7 @@
 
 I wanna talk about Language and stuff.
 ## <span id="sc">Language</span>
-Language is really cool stuff!
+Language is cool stuff!
 ### <span id="sec">What Is a Language</span>
-Language is laguage
+Language is language
+

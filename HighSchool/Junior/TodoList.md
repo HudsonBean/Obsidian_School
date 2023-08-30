@@ -12,15 +12,13 @@ kanban-plugin: basic
 ## Oral Comm
 
 **Complete**
-- [x] Read chapter 5
 
 
 ## APUSH
 
 **Complete**
-- [x] Read and take Chapter 4 test.
-- [x] Watch all videos on the website
-- [x] Take notes
+- [x] Read Chapter 5
+- [x] Read Chapter 6
 
 
 ## Español 3
@@ -43,6 +41,10 @@ kanban-plugin: basic
 - [ ] Read chapter 4 and take test. DUE MONDAY!
 - [x] test
 - [x] Read chapter 4
+- [x] Read and take Chapter 4 test.
+- [x] Read chapter 5
+- [x] Watch all videos on the website
+- [x] Take notes
 
 %% kanban:settings
 ```

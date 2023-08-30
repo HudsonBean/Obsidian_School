@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d662d74625deb20",
+        "id": "bf3320747971cd21",
         "type": "tabs",
         "children": [
           {
-            "id": "c36753b40458e2e4",
+            "id": "afe9fc88ae602394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
-                "mode": "preview",
+                "file": "HighSchool/Junior/APUSH/Periods/Period 2/Period 2 (1607-1754).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
+                "file": "HighSchool/Junior/APUSH/Periods/Period 2/Period 2 (1607-1754).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
+                "file": "HighSchool/Junior/APUSH/Periods/Period 2/Period 2 (1607-1754).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HighSchool/Junior/APUSH/Themes/Encomienda System.md"
+                "file": "HighSchool/Junior/APUSH/Periods/Period 2/Period 2 (1607-1754).md"
               }
             }
           },
@@ -156,43 +156,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c36753b40458e2e4",
+  "active": "afe9fc88ae602394",
   "lastOpenFiles": [
-    "Templates/ThemeTemplate.md",
-    "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
-    "Assets/TheEncomiendaSystem.png",
-    "HighSchool/Junior/APUSH/Themes/Columbian Exchange.md",
-    "Assets/TheColumbianExchange.png",
-    "HighSchool/Junior/APUSH/Exam Notes.md",
+    "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
+    "HighSchool/Junior/APUSH/Periods/Period 2/Period 2 (1607-1754).md",
+    "HighSchool/Junior/APUSH/Periods/Period 3/Untitled",
     "HighSchool/Junior/APUSH/Periods/Period 1/Period 1 (1491-1607) Contact and Exploration.md",
+    "HighSchool/Junior/APUSH/Themes/Headright System.md",
     "HighSchool/Junior/APUSH/Master Note.md",
-    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Juan Ponce de León.md",
+    "HighSchool/Junior/APUSH/Exam Notes.md",
+    "HighSchool/Junior/TodoList.md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 6 Listening.md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 5.md",
+    "Templates/PeopleTemplate.md",
+    "2023-08-27.md",
+    "Untitled.md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 6",
+    "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
+    "headright system.md",
+    "HighSchool/Junior/APUSH/Themes/Treaty of Torsedillas.md",
     "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Hernán Cortés.md",
     "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Christopher Columbus.md",
-    "Templates/PeopleTemplate.md",
+    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Doñe Marina (Malinche).md",
+    "HighSchool/Junior/APUSH/Themes/Columbian Exchange.md",
+    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Juan Ponce de León.md",
+    "Assets/TreatyOfTorsedillas.png",
+    "Pasted image 20230825223620.png",
+    "Templates/ThemeTemplate.md",
+    "Assets/TheEncomiendaSystem.png",
+    "Assets/TheColumbianExchange.png",
     "Templates/NoteTemplate.md",
-    "HighSchool/Junior/APUSH/Periods/Period 2/Period 2 (1607-1754).md",
     "HighSchool/Junior/APUSH/Periods/Period 2/test.md",
     "HighSchool/Junior/APUSH/Periods/Period 6 (1865-1898)/Untitled",
     "HighSchool/Junior/APUSH/Periods/Period 1 (1491-1607)/Untitled",
     "HighSchool/Junior/APUSH/Periods/Period 8/Period 8 (1945-1980).md",
     "HighSchool/Junior/APUSH/Periods/Period 9/Period 9 (1980-Present).md",
-    "HighSchool/Junior/APUSH/Periods/Period 7/Period 7 (1890-1945).md",
-    "HighSchool/Junior/APUSH/Periods/Period 6/Period 6 (1865-1898).md",
-    "HighSchool/Junior/APUSH/Periods/Period 5/Period 5 (1844-1877).md",
-    "HighSchool/Junior/APUSH/Periods/Period 4/Period 4 (1800-1848).md",
-    "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
     "HighSchool/Junior/APUSH/Periods/Period 4 (1800-1848)/Period 4 (1800-1848).canvas",
     "HighSchool/Junior/APUSH/Periods/Period 3 (1754-1800)/Period 3 (1754-1800).canvas",
     "HighSchool/Junior/APUSH/Periods/Period 5 (1844-1877)/Period 5 (1844-1877).canvas",
     "HighSchool/Junior/APUSH/Periods/Period 2 (1607-1754)/Period 2 (1607-1754).canvas",
-    "Period 2 (1607-1754).md",
     "Period 1 (1491-1607).canvas",
     "HighSchool/Junior/APUSH/Periods/Period 1 (1491-1607)/Period 1 (1491-1607).canvas",
-    "CssSnippetTest.md",
     "Assets",
-    "HighSchool/Junior/TodoList.md",
-    "HighSchool/Junior/APUSH/Themes/Columbus Exchange.md",
     "HighSchool/Junior/APUSH/Themes",
     "HighSchool/Junior/APUSH/Periods/Period 8 (1945-1980)/Period 8 (1945-1980).canvas",
     "HighSchool/Junior/APUSH/Periods/Period 9 (1980-Present)/Period 9 (1980-Present).canvas",
@@ -201,8 +206,6 @@
     "HighSchool/Junior/APUSH/Periods/Period 9/Important People",
     "HighSchool/Junior/APUSH/Periods/Period 8/Important People",
     "HighSchool/Junior/APUSH/Periods/Period 7/Important People",
-    "HighSchool/Junior/APUSH/Periods/Period 6/Important People",
-    "HighSchool/Junior/APUSH/Periods/Period 5/Important People",
-    "HighSchool/Junior/APUSH/Periods/Period 4/Important People"
+    "HighSchool/Junior/APUSH/Periods/Period 6/Important People"
   ]
 }

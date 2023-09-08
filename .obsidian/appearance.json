@@ -5,6 +5,7 @@
     "SubChapter",
     "Section",
     "Important",
-    "NoDecoration"
+    "NoDecoration",
+    "SubSection"
   ]
 }

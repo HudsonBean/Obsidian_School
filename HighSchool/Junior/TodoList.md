@@ -17,7 +17,6 @@ kanban-plugin: basic
 ## APUSH
 
 **Complete**
-- [x] Read Chapter 5
 - [x] Read Chapter 6
 
 

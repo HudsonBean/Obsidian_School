@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "32adcd7ebacf67bd",
+        "id": "5a7df589480d3db9",
         "type": "tabs",
         "children": [
           {
-            "id": "c5db0f0b63964c8d",
+            "id": "4d4b14057690f8bc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "HighSchool/Junior/TodoList.md"
+                "file": "HighSchool/Junior/Español 3/literatura.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HighSchool/Junior/TodoList.md",
+                "file": "HighSchool/Junior/Español 3/literatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HighSchool/Junior/TodoList.md",
+                "file": "HighSchool/Junior/Español 3/literatura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HighSchool/Junior/TodoList.md"
+                "file": "HighSchool/Junior/Español 3/literatura.md"
               }
             }
           },
@@ -154,11 +156,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5db0f0b63964c8d",
+  "active": "4d4b14057690f8bc",
   "lastOpenFiles": [
-    "CssSnippetTest.md",
-    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 7 Interpersonal Relationships.md",
+    "HighSchool/Junior/Español 3/Diccionario.md",
+    "HighSchool/Junior/Español 3/literatura.md",
+    "HighSchool/Junior/Español 3/Un Fraces.md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11 Topic Selection and Development.md",
     "HighSchool/Junior/TodoList.md",
+    "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 7 Interpersonal Relationships.md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 6 Listening.md",
+    "CssSnippetTest.md",
     "Assets/SouthernColonies.png",
     "HighSchool/Junior/APUSH/Themes/Encomienda System.md",
     "Assets/TheEncomiendaSystem.png",
@@ -168,12 +176,10 @@
     "HighSchool/Junior/APUSH/Periods/Period 1/Period 1 (1491-1607) Contact and Exploration.md",
     "Assets/Pasted image 20230830113308.png",
     "Pasted image 20230830074236.png",
-    "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
     "HighSchool/Junior/APUSH/Periods/Period 3/Untitled",
     "HighSchool/Junior/APUSH/Themes/Headright System.md",
     "HighSchool/Junior/APUSH/Master Note.md",
     "HighSchool/Junior/APUSH/Exam Notes.md",
-    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 6 Listening.md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 5.md",
     "Templates/PeopleTemplate.md",
     "2023-08-27.md",
@@ -187,12 +193,8 @@
     "HighSchool/Junior/APUSH/Themes/Columbian Exchange.md",
     "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Juan Ponce de León.md",
     "Pasted image 20230825223620.png",
-    "Templates/ThemeTemplate.md",
-    "Templates/NoteTemplate.md",
-    "HighSchool/Junior/APUSH/Periods/Period 2/test.md",
     "HighSchool/Junior/APUSH/Periods/Period 6 (1865-1898)/Untitled",
     "HighSchool/Junior/APUSH/Periods/Period 1 (1491-1607)/Untitled",
-    "HighSchool/Junior/APUSH/Periods/Period 8/Period 8 (1945-1980).md",
     "HighSchool/Junior/APUSH/Periods/Period 4 (1800-1848)/Period 4 (1800-1848).canvas",
     "HighSchool/Junior/APUSH/Periods/Period 3 (1754-1800)/Period 3 (1754-1800).canvas",
     "HighSchool/Junior/APUSH/Periods/Period 5 (1844-1877)/Period 5 (1844-1877).canvas",

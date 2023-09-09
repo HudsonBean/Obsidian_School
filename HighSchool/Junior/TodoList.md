@@ -19,6 +19,7 @@ kanban-plugin: basic
 
 **Complete**
 - [x] Read Chapter 6
+- [x] Chapter 6 Quiz
 
 
 ## Español 3

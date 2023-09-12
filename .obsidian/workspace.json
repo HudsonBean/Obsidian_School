@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HighSchool/Junior/Español 3/literatura.md",
+                "file": "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HighSchool/Junior/Español 3/literatura.md",
+                "file": "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HighSchool/Junior/Español 3/literatura.md",
+                "file": "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HighSchool/Junior/Español 3/literatura.md"
+                "file": "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "4d4b14057690f8bc",
   "lastOpenFiles": [
+    "Assets/Este&Ese.jpeg",
+    "Assets/SocialHiearchy18thCentury.png",
     "HighSchool/Junior/Español 3/Diccionario.md",
     "HighSchool/Junior/Español 3/literatura.md",
     "HighSchool/Junior/Español 3/Un Fraces.md",
+    "HighSchool/Junior/Algebra3/Un Fraces.md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11 Topic Selection and Development.md",
     "HighSchool/Junior/TodoList.md",
     "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
@@ -174,7 +177,6 @@
     "Assets/TheColumbianExchange.png",
     "HighSchool/Junior/APUSH/Periods/Period 2/Period 2 (1607-1754).md",
     "HighSchool/Junior/APUSH/Periods/Period 1/Period 1 (1491-1607) Contact and Exploration.md",
-    "Assets/Pasted image 20230830113308.png",
     "Pasted image 20230830074236.png",
     "HighSchool/Junior/APUSH/Periods/Period 3/Untitled",
     "HighSchool/Junior/APUSH/Themes/Headright System.md",
@@ -190,8 +192,6 @@
     "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Hernán Cortés.md",
     "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Christopher Columbus.md",
     "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Doñe Marina (Malinche).md",
-    "HighSchool/Junior/APUSH/Themes/Columbian Exchange.md",
-    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Juan Ponce de León.md",
     "Pasted image 20230825223620.png",
     "HighSchool/Junior/APUSH/Periods/Period 6 (1865-1898)/Untitled",
     "HighSchool/Junior/APUSH/Periods/Period 1 (1491-1607)/Untitled",

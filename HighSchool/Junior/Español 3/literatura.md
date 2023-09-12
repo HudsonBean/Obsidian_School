@@ -6,3 +6,4 @@ overview: foo
 # <span id="c"><a>[[literatura]]</a></span>
 
 ![[Este&Ese.jpeg]]
+esta and ese are for cosas (things) not for connections use que.

@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5a7df589480d3db9",
+        "id": "5d12eb09be6df7c4",
         "type": "tabs",
         "children": [
           {
-            "id": "4d4b14057690f8bc",
+            "id": "63742975d0793d3d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/SouthernColonies.png"
-              }
-            }
-          },
-          {
-            "id": "4d84eabb69492fe2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
+                "file": "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/SouthernColonies.png",
+                "file": "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/SouthernColonies.png",
+                "file": "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/SouthernColonies.png"
+                "file": "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md"
               }
             }
           },
@@ -151,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,20 +156,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d84eabb69492fe2",
+  "active": "63742975d0793d3d",
   "lastOpenFiles": [
+    "HighSchool/Junior/TodoList.md",
+    "HighSchool/Junior/Español 3/Un Fraces.md",
+    "HighSchool/Junior/Algebra3/Un Fraces.md",
     "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
     "Chapter 11-15.pdf",
     "HighSchool/Junior/Español 3/literatura.md",
     "HighSchool/Junior/Español 3/Diccionario.md",
     "2023-09-13.md",
-    "HighSchool/Junior/Español 3/Un Fraces.md",
     "Assets/Este&Ese.jpeg",
     "Assets/SocialHiearchy18thCentury.png",
-    "HighSchool/Junior/Algebra3/Un Fraces.md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11 Topic Selection and Development.md",
-    "HighSchool/Junior/TodoList.md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 7 Interpersonal Relationships.md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 6 Listening.md",
     "CssSnippetTest.md",

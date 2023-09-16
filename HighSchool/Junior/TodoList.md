@@ -12,14 +12,11 @@ kanban-plugin: basic
 ## Oral Comm
 
 **Complete**
-- [x] Read Chapter 11 & 12
 
 
 ## APUSH
 
 **Complete**
-- [x] Read Chapter 6
-- [x] Chapter 6 Quiz
 
 
 ## Español 3
@@ -46,6 +43,9 @@ kanban-plugin: basic
 - [x] Read chapter 5
 - [x] Watch all videos on the website
 - [x] Take notes
+- [x] Read Chapter 6
+- [x] Chapter 6 Quiz
+- [x] Read Chapter 11 & 12
 
 %% kanban:settings
 ```

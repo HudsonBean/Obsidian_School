@@ -11,15 +11,24 @@
             "id": "4d4b14057690f8bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "HighSchool/Junior/Español 3/literatura.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/SouthernColonies.png"
+              }
+            }
+          },
+          {
+            "id": "4d84eabb69492fe2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HighSchool/Junior/Español 3/literatura.md",
+                "file": "Assets/SouthernColonies.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HighSchool/Junior/Español 3/literatura.md",
+                "file": "Assets/SouthernColonies.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HighSchool/Junior/Español 3/literatura.md"
+                "file": "Assets/SouthernColonies.png"
               }
             }
           },
@@ -142,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,14 +166,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d4b14057690f8bc",
+  "active": "4d84eabb69492fe2",
   "lastOpenFiles": [
-    "HighSchool/Junior/Español 3/Un Fraces.md",
     "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
+    "Chapter 11-15.pdf",
+    "HighSchool/Junior/Español 3/literatura.md",
+    "HighSchool/Junior/Español 3/Diccionario.md",
+    "2023-09-13.md",
+    "HighSchool/Junior/Español 3/Un Fraces.md",
     "Assets/Este&Ese.jpeg",
     "Assets/SocialHiearchy18thCentury.png",
-    "HighSchool/Junior/Español 3/Diccionario.md",
-    "HighSchool/Junior/Español 3/literatura.md",
     "HighSchool/Junior/Algebra3/Un Fraces.md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11 Topic Selection and Development.md",
     "HighSchool/Junior/TodoList.md",
@@ -190,8 +203,6 @@
     "headright system.md",
     "HighSchool/Junior/APUSH/Themes/Treaty of Torsedillas.md",
     "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Hernán Cortés.md",
-    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Christopher Columbus.md",
-    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Doñe Marina (Malinche).md",
     "Pasted image 20230825223620.png",
     "HighSchool/Junior/APUSH/Periods/Period 6 (1865-1898)/Untitled",
     "HighSchool/Junior/APUSH/Periods/Period 1 (1491-1607)/Untitled",
@@ -209,7 +220,6 @@
     "HighSchool/Junior/APUSH/Periods/Period 6 (1865-1898)/Period 6 (1865-1898).canvas",
     "HighSchool/Junior/APUSH/Periods/Period 9/Important People",
     "HighSchool/Junior/APUSH/Periods/Period 8/Important People",
-    "HighSchool/Junior/APUSH/Periods/Period 7/Important People",
-    "HighSchool/Junior/APUSH/Periods/Period 6/Important People"
+    "HighSchool/Junior/APUSH/Periods/Period 7/Important People"
   ]
 }

@@ -2,11 +2,11 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "Chapter",
-    "SubChapter",
-    "Section",
     "Important",
     "NoDecoration",
-    "SubSection",
-    "Special"
+    "Section",
+    "Special",
+    "SubChapter",
+    "SubSection"
   ]
 }

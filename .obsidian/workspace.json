@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d12eb09be6df7c4",
+        "id": "f59793e27978757a",
         "type": "tabs",
         "children": [
           {
-            "id": "63742975d0793d3d",
+            "id": "425bccf3e03634c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
+                "file": "HighSchool/Junior/APUSH/2023-10-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
+                "file": "HighSchool/Junior/APUSH/2023-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
+                "file": "HighSchool/Junior/APUSH/2023-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md"
+                "file": "HighSchool/Junior/APUSH/2023-10-09.md"
               }
             }
           },
@@ -156,18 +156,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63742975d0793d3d",
+  "active": "425bccf3e03634c7",
   "lastOpenFiles": [
-    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11 Topic Selection and Development.md",
-    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
-    "HighSchool/Junior/TodoList.md",
+    "HighSchool/Junior/APUSH/2023-10-09.md",
+    "HighSchool/Junior/APUSH/2023-09-21.md",
+    "HighSchool/Junior/APUSH/2023-09-13.md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 16 Informative Speeches.md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 16.md",
+    "HighSchool/Junior/APUSH/Master Note.md",
     "HighSchool/Junior/Español 3/Un Fraces.md",
-    "HighSchool/Junior/Algebra3/Un Fraces.md",
     "HighSchool/Junior/APUSH/Periods/Period 3/Period 3 (1754-1800).md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11-15.md",
+    "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 11 Topic Selection and Development.md",
+    "HighSchool/Junior/TodoList.md",
+    "HighSchool/Junior/Algebra3/Un Fraces.md",
     "Chapter 11-15.pdf",
     "HighSchool/Junior/Español 3/literatura.md",
     "HighSchool/Junior/Español 3/Diccionario.md",
-    "2023-09-13.md",
     "Assets/Este&Ese.jpeg",
     "Assets/SocialHiearchy18thCentury.png",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 7 Interpersonal Relationships.md",
@@ -183,16 +188,12 @@
     "Pasted image 20230830074236.png",
     "HighSchool/Junior/APUSH/Periods/Period 3/Untitled",
     "HighSchool/Junior/APUSH/Themes/Headright System.md",
-    "HighSchool/Junior/APUSH/Master Note.md",
     "HighSchool/Junior/APUSH/Exam Notes.md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 5.md",
     "Templates/PeopleTemplate.md",
-    "2023-08-27.md",
+    "HighSchool/Junior/APUSH/2023-08-27.md",
     "Untitled.md",
     "HighSchool/Junior/Fundamentals of Oral Communication/Chapter 6",
-    "headright system.md",
-    "HighSchool/Junior/APUSH/Themes/Treaty of Torsedillas.md",
-    "HighSchool/Junior/APUSH/Periods/Period 1/Important People/Hernán Cortés.md",
     "Pasted image 20230825223620.png",
     "HighSchool/Junior/APUSH/Periods/Period 6 (1865-1898)/Untitled",
     "HighSchool/Junior/APUSH/Periods/Period 1 (1491-1607)/Untitled",

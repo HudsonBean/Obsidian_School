@@ -16,6 +16,6 @@ Do note that you can't use it to make connections (conjunctions) instead use "qu
 ---
 ## <span id="sc">Què y que</span>
 Qué = "what"
-Que = "That" o "Than"
+Que = "That" or "Than"
 
 ---
